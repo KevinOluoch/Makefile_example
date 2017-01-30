@@ -1,0 +1,7 @@
+This file is used to test the makefiles work flow
+echo
+echo
+echo
+echo
+fgechohj
+2echot5
