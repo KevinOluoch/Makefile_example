@@ -7,6 +7,9 @@
 
 **Introduction**
 An example of a make file workflow.
+The folder 'makefile' can be downloaded to a given folder
+to which one wants to count the number of times the word 'echo' appears at the
+begining of sentences in all files in that directory
 
 **Features**
 
